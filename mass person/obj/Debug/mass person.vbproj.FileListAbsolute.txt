@@ -1,0 +1,11 @@
+E:\firstwork\mass person\mass person\bin\Debug\mass person.exe
+E:\firstwork\mass person\mass person\bin\Debug\mass person.pdb
+E:\firstwork\mass person\mass person\bin\Debug\mass person.xml
+E:\firstwork\mass person\mass person\obj\Debug\ResolveAssemblyReference.cache
+E:\firstwork\mass person\mass person\obj\Debug\mass_person.Form1.resources
+E:\firstwork\mass person\mass person\obj\Debug\mass_person.Resources.resources
+E:\firstwork\mass person\mass person\obj\Debug\mass person.vbproj.GenerateResource.Cache
+E:\firstwork\mass person\mass person\obj\Debug\mass person.exe
+E:\firstwork\mass person\mass person\obj\Debug\mass person.xml
+E:\firstwork\mass person\mass person\obj\Debug\mass person.pdb
+E:\firstwork\mass person\mass person\obj\Debug\mass_person.Form2.resources
